@@ -30,6 +30,8 @@ params:
         url: posts
       - name: "Blender Projects"
         url: blender-projects
+      - name: "Coding Projects"
+        url: "https://github.com/Spacekek"
 
   socialIcons:
     - name: discord

@@ -1,0 +1,38 @@
+baseURL: http://tpwalinga.nl/
+languageCode: en-us
+title: "Tsjerk Piter Walinga"
+theme: "PaperMod"
+author: "Tsjerk Piter Walinga"
+
+params:
+  DateFormat: "2 January 2006"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  disableSpecial1stPost: false
+  
+  assets:
+    disableFingerprinting: true
+
+  profileMode:
+    enabled: true
+    title: "Tsjerk Piter Walinga"
+    subtitle: "My personal site"
+    imageUrl: "pasfoto.jpg"
+    imageTitle: "me"
+    buttons:
+      - name: Posts
+        url: posts
+      - name: "Blender Projects"
+        url: blender-projects
+
+  socialIcons:
+    - name: discord
+      url: "https://discordapp.com/users/162590927641116673"
+    - name: github
+      url: "https://github.com/Spacekek"

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tsjerk Piter Walinga</title>
+    <link>http://tpwalinga.nl/</link>
+    <description>Recent content on Tsjerk Piter Walinga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2023 21:26:35 +0000</lastBuildDate><atom:link href="http://tpwalinga.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here Blender</title>
+      <link>http://tpwalinga.nl/blender-projects/here-blender/</link>
+      <pubDate>Wed, 15 Feb 2023 21:26:35 +0000</pubDate>
+      
+      <guid>http://tpwalinga.nl/blender-projects/here-blender/</guid>
+      <description>This is a placeholder for where my blender projects will be shown</description>
+    </item>
+    
+    <item>
+      <title>The Impossibility of Utilitarianism</title>
+      <link>http://tpwalinga.nl/posts/the-impossibility-of-utilitarianism/</link>
+      <pubDate>Wed, 15 Feb 2023 21:22:14 +0000</pubDate>
+      
+      <guid>http://tpwalinga.nl/posts/the-impossibility-of-utilitarianism/</guid>
+      <description>(This is a paper I wrote for a philosophy course at University)
+Introduction &amp;ldquo;It is the greatest happiness of the greatest number that is the measure of right and wrong.&amp;quot;1 It almost sounds like an a priori truth, but it is far from it. It&amp;rsquo;s the mantra of utilitarianism, the idea that the total amount of happiness2 created by an action determines whether it is good or bad. In this paper, I will argue that it is incorrect for a plethora of reasons.</description>
+    </item>
+    
+  </channel>
+</rss>

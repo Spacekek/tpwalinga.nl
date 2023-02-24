@@ -6,14 +6,23 @@
     <description>Recent content on Tsjerk Piter Walinga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Feb 2023 21:26:35 +0000</lastBuildDate><atom:link href="http://tpwalinga.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 13:36:03 +0000</lastBuildDate><atom:link href="http://tpwalinga.nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Here Blender</title>
-      <link>http://tpwalinga.nl/blender-projects/here-blender/</link>
-      <pubDate>Wed, 15 Feb 2023 21:26:35 +0000</pubDate>
+      <title>Breakfast</title>
+      <link>http://tpwalinga.nl/blender-projects/breakfast/</link>
+      <pubDate>Fri, 24 Feb 2023 13:36:03 +0000</pubDate>
       
-      <guid>http://tpwalinga.nl/blender-projects/here-blender/</guid>
-      <description>This is a placeholder for where my blender projects will be shown</description>
+      <guid>http://tpwalinga.nl/blender-projects/breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mandelbulb</title>
+      <link>http://tpwalinga.nl/blender-projects/mandelbulb/</link>
+      <pubDate>Fri, 24 Feb 2023 13:22:55 +0000</pubDate>
+      
+      <guid>http://tpwalinga.nl/blender-projects/mandelbulb/</guid>
+      <description></description>
     </item>
     
     <item>

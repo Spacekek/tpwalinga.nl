@@ -6,7 +6,16 @@
     <description>Recent content in Blender projects on Tsjerk Piter Walinga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 13:36:03 +0000</lastBuildDate><atom:link href="http://tpwalinga.nl/blender-projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 20:52:20 +0000</lastBuildDate><atom:link href="http://tpwalinga.nl/blender-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inverted Mandelbulb</title>
+      <link>http://tpwalinga.nl/blender-projects/inverted-mandelbulb/</link>
+      <pubDate>Sun, 26 Feb 2023 20:52:20 +0000</pubDate>
+      
+      <guid>http://tpwalinga.nl/blender-projects/inverted-mandelbulb/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Breakfast</title>
       <link>http://tpwalinga.nl/blender-projects/breakfast/</link>

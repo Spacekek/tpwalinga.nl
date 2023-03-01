@@ -14,7 +14,9 @@ params:
   ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
   disableSpecial1stPost: false
+
   
   assets:
     disableFingerprinting: true

@@ -14,6 +14,9 @@
       
       <guid>http://tpwalinga.nl/blender-projects/space/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/space.jpg" alt="space"  />
+</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -23,6 +26,11 @@
       
       <guid>http://tpwalinga.nl/blender-projects/ink-style/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/karper.jpg" alt="karper"  />
+
+<img loading="lazy" src="/blender/wisp.jpg" alt="wisp"  />
+</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -32,6 +40,15 @@
       
       <guid>http://tpwalinga.nl/blender-projects/inverted-mandelbulb/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/mandelbulb_inverted.png" alt="inverted"  />
+
+<img loading="lazy" src="/blender/mandelbulb_inverted2.png" alt="inverted2"  />
+
+<img loading="lazy" src="/blender/mandelbulb_inverted3.png" alt="inverted3"  />
+
+<img loading="lazy" src="/blender/mandelbulb_inverted_zoomed.jpg" alt="invertedzoomed"  />
+</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -41,6 +58,9 @@
       
       <guid>http://tpwalinga.nl/blender-projects/breakfast/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/breakfast.jpg" alt="breakfast"  />
+</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -50,6 +70,17 @@
       
       <guid>http://tpwalinga.nl/blender-projects/mandelbulb/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/mandelbulb_blue.png" alt="blue"  />
+
+<img loading="lazy" src="/blender/mandelbulb_pink.png" alt="pink"  />
+
+<img loading="lazy" src="/blender/mandelbulb_orange.png" alt="orange"  />
+
+<img loading="lazy" src="/blender/mandelbulb_rainbow.png" alt="rainbow"  />
+
+<img loading="lazy" src="/blender/mandelbulb_purple.png" alt="purple"  />
+</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -60,6 +91,186 @@
       <guid>http://tpwalinga.nl/posts/the-impossibility-of-utilitarianism/</guid>
       <description>(This is a paper I wrote for a philosophy course at University)
 Introduction &amp;ldquo;It is the greatest happiness of the greatest number that is the measure of right and wrong.&amp;quot;1 It almost sounds like an a priori truth, but it is far from it. It&amp;rsquo;s the mantra of utilitarianism, the idea that the total amount of happiness2 created by an action determines whether it is good or bad. In this paper, I will argue that it is incorrect for a plethora of reasons.</description>
+      <content:encoded><![CDATA[<p>(This is a paper I wrote for a philosophy course at University)</p>
+<h1 id="introduction">Introduction</h1>
+<p>&ldquo;It is the greatest happiness of the greatest number that is the measure
+of right and wrong.&quot;<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> It almost sounds like an a priori truth, but it
+is far from it. It&rsquo;s the mantra of utilitarianism, the idea that the
+total amount of happiness<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> created by an action determines whether it
+is good or bad. In this paper, I will argue that it is incorrect for a
+plethora of reasons.</p>
+<h1 id="when-should-we-stop-counting">When should we stop counting</h1>
+<p>Utilitarianism is based on the fact that actions affect the future, so
+to determine if an action is good (according to utilitarianism) you have
+got to look at the consequences of the action; if the action causes the
+total happiness to go up the action is classified as good. But total
+happiness at what moment? For example, if an action causes total
+happiness to go up in the short term but to go down in the long term, is
+it classified as good or bad? Most utilitarians argue that you have to
+look at the long term, but the same problem holds, when should they stop
+counting? It is impossible to count or predict happiness accurately for
+an infinite amount of time and space; this is because our universe is a
+chaotic system; it is almost impossible to predict (even in the short
+term). A great story to illustrate the importance of the time frame for
+consequentialist ethics is this Taoist koan<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> about an old farmer:</p>
+<p><em>&ldquo;One day his horse ran away. Upon hearing the news, his neighbors came
+to visit. &ldquo;Such bad luck,&rdquo; they said sympathetically.<br>
+&ldquo;Maybe,&rdquo; the farmer replied.<br>
+The next morning the horse returned, bringing with it three other wild
+horses. &ldquo;How wonderful,&rdquo; the neighbors exclaimed.<br>
+&ldquo;Maybe,&rdquo; replied the old man.<br>
+The following day, his son tried to ride one of the untamed horses, was
+thrown, and broke his leg. The neighbors again came to offer their
+sympathy for what they called his &ldquo;misfortune.&quot;<br>
+&ldquo;Maybe,&rdquo; answered the farmer.<br>
+The day after, military officials came to the village to draft young men
+into the army. Seeing that the son&rsquo;s leg was broken, they passed him by.
+The neighbors congratulated the farmer on how well things had turned
+out.<br>
+&ldquo;Maybe,&rdquo; said the farmer.&quot;</em><br>
+<br>
+At each point in time, the neighbors make a judgment, but each time they
+could be wrong. If a utilitarian argues that some amount of time is
+enough, it is like the neighbors in the story making a judgment based on
+what has happened so far, different things could still happen.</p>
+<h1 id="the-nature-of-happiness">The nature of happiness</h1>
+<p>The previous section assumed that happiness is objective and can be
+calculated with, so another problem for utilitarianism is that happiness
+is not a straightforward objective thing. For example, there could be
+multiple kinds of happiness. Some individuals might prefer spiritual
+fulfillment in the form of asceticism, while others prioritize sensory
+pleasures in the form of hedonism (most prefer a bit of both). If the
+definition of happiness varies between individuals, it becomes even more
+difficult to measure the happiness an action provides. For
+utilitarianism to work, the calculation of happiness has to be possible;
+if the definition of happiness is subjective, then this calculation
+becomes problematic.</p>
+<h1 id="how-to-count-happiness">How to count happiness</h1>
+<p>A similar problem is provided by John Taurek&rsquo;s &ldquo;Should the Numbers
+Count?&rdquo; he argues that he values the life of another not because it has
+an objective value but because he can empathize with the person in
+question. &ldquo;Five individuals each losing his life does not add up to
+anyone&rsquo;s experiencing a loss five times greater than the loss suffered
+by any one of the five.&rdquo; The loss to the individual can&rsquo;t be added up to
+a bigger loss because it would no longer be the loss to the individual;
+there is no greater loss to an individual spared by saving more
+individuals.<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> This means that the loss or happiness of individuals
+can not be added up in the way needed for utilitarianism.</p>
+<h1 id="balancing-conflicting-variables">Balancing conflicting variables</h1>
+<p>Let&rsquo;s say that we found a way to solve the above-mentioned problems,
+there is still another problem: What should be maximized? Utilitarianism
+states that the greatest amount of happiness for the greatest amount of
+individuals should be maximized. However these are two variables which
+could prove problematic. For example, if we can do an action that
+provides great happiness for a few individuals or an action that
+provides a small amount of happiness for a lot of individuals, which one
+should we prefer? If happiness is quantifiable, the average could be
+multiplied by the number of individuals, but how can we know that one
+should not be preferred over the other? If happiness is felt on a
+logarithmic scale, we should prefer the second, but if it is an
+exponential scale, we should prefer the first, but we have no way of
+knowing which is the case.</p>
+<h1 id="who-counts">Who counts</h1>
+<p>Until now we have only discussed &ldquo;individuals,&rdquo; but who is meant by
+this? Only animals of the Homo Sapiens genus? Sam Harris argues that all
+conscious creatures should count<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>, but this generates a host of
+different problems. For example, how can we figure out if something is
+conscious? If consciousness is a spectrum, should that be accounted for?
+If, for example, a cockroach is a little conscious but feels happiness
+intensely, should the cockroach be counted more or less towards &ldquo;the
+well-being of conscious creatures?&quot;<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup> Also, because we have no way to
+know how other beings feel, there is no way to tell if the brain
+activity we see in their brains is really a feeling of happiness. Just
+by observing and reducing everything, we never really understand the
+feeling; this is also what Thomas Nagel argues in his famous paper &ldquo;What
+is it like to be a bat.&rdquo; To further illustrate, I will explain his
+thought experiment: Try to imagine being a bat, you can try to picture
+how it would be but cannot know for sure that a bat experiences life in
+that way and it is always from our perspective; we try to imagine the
+echolocation as a visual sense, but it could be that they experience it
+in a totally different way. We could look at how the bat&rsquo;s brain works,
+know everything that happens inside it, but we still won&rsquo;t know what it
+is like to be a bat.<sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup> So when we maximize the brain activity that we
+think is happiness in other individuals we could be making their
+experience of life worse!</p>
+<h1 id="the-nonexistence-of-an-objective-viewpoint">The nonexistence of an objective viewpoint</h1>
+<p>Utilitarianism assumes the possibility of objectively measuring an
+individual&rsquo;s happiness, but the happiness is inherently subjective.
+Happiness is desirable for the individual, but that does not necessarily
+translate to the average or total happiness being more desirable; the
+desirability of happiness is still individual and only exists within us;
+you cannot feel other people&rsquo;s happiness. So if happiness is good for
+the individual, that does not say whether a higher &ldquo;total happiness&quot;
+between multiple individuals is good.</p>
+<h1 id="the-is-ought-gap">The is-ought gap</h1>
+<p>At the heart of utilitarianism is the assumption that happiness is good
+and that we should act accordingly. David Hume calls out these
+assumptions at the basis of all ethics in what is now called the
+&ldquo;is-ought gap.&rdquo; There is no way to bridge the gap between what is and
+what ought to be done without making unprovable assumptions.<sup id="fnref:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup> There
+is no way to go from only descriptive statements to normative statements
+because these are entirely different. This gap means that all objective
+normative ethics (of which utilitarianism is one) cannot prove that we
+ought to act according to their views.</p>
+<h1 id="conclusion">Conclusion</h1>
+<p>All these arguments mean that utilitarianism is impossible in every way.
+The calculation is impossible because you can not calculate it for an
+infinite amount of time and space. There is no clear definition of
+happiness. There is no way to do math with happiness, and even if you
+could do math with happiness, it is not clear which, how, and why one of
+the variables should be preferred over the other in the maximization.
+Furthermore, we have no way of knowing which individuals we should count
+towards the total happiness or how much. Even if we could, we would not
+be able to measure it objectively because it is an individual
+experience. Finally, the is-ought gap shows that even the fundamental
+assumption that happiness is good cannot be proven. It is important for
+us to continue to critically evaluate existing theories to gain insight
+into what theories are the best and how to improve them. All the
+limitations and challenges make utilitarianism impossible to implement
+and fail as a theory for moral decisions.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Bentham, Jeremy. <em>A Comment on the Commentaries and a Fragment on
+Government,</em> edited by J. H. Burns and H. L. A. Hart. London: The
+Athlone Press. 1977. p. 393.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>In this paper the term &ldquo;happiness&rdquo; can be interchanged with
+&ldquo;well-being,&rdquo; &ldquo;pleasure,&rdquo; &ldquo;benefit,&rdquo; or other terms used by
+utilitarian philosophers.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>A story, dialogue, question, or statement which is used in Zen
+practice to provoke the &quot;great doubt&quot; and to practice or test a
+student&rsquo;s progress in Zen. As defined by Wikipedia
+(<a href="https://en.wikipedia.org/wiki/Koan">https://en.wikipedia.org/wiki/Koan</a>)&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4" role="doc-endnote">
+<p>Taurek, John M. <em>&ldquo;Should the Numbers Count?&rdquo; Philosophy and Public
+Affairs</em> 6 No.4. (Summer) Princeton University Press. 1977. p.
+293-316&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5" role="doc-endnote">
+<p>Harris, Sam. <em>The Moral Landscape.</em> Free Press. 2010. p. 2&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6" role="doc-endnote">
+<p>This is similar to the thought experiment about the utility
+monster formulated by Robert Nozick. (Nozick, Robert 1974. <em>Anarchy,
+State, and Utopia.</em> p. 41.)&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7" role="doc-endnote">
+<p>Nagel, Thomas. <em>&ldquo;What is it like to be a bat&rdquo; Philosophical
+Review</em> Vol. 83 No. 4. (Oct.) Duke University Press. 1974. p.
+435-450&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:8" role="doc-endnote">
+<p>Hume, David. <em>A Treatise of Human Nature.</em> 1739-40. London. p. 274&#160;<a href="#fnref:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
     </item>
     
   </channel>

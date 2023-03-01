@@ -14,6 +14,9 @@
       
       <guid>http://tpwalinga.nl/blender-projects/space/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/space.jpg" alt="space"  />
+</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -23,6 +26,11 @@
       
       <guid>http://tpwalinga.nl/blender-projects/ink-style/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/karper.jpg" alt="karper"  />
+
+<img loading="lazy" src="/blender/wisp.jpg" alt="wisp"  />
+</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -32,6 +40,15 @@
       
       <guid>http://tpwalinga.nl/blender-projects/inverted-mandelbulb/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/mandelbulb_inverted.png" alt="inverted"  />
+
+<img loading="lazy" src="/blender/mandelbulb_inverted2.png" alt="inverted2"  />
+
+<img loading="lazy" src="/blender/mandelbulb_inverted3.png" alt="inverted3"  />
+
+<img loading="lazy" src="/blender/mandelbulb_inverted_zoomed.jpg" alt="invertedzoomed"  />
+</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -41,6 +58,9 @@
       
       <guid>http://tpwalinga.nl/blender-projects/breakfast/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/breakfast.jpg" alt="breakfast"  />
+</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -50,6 +70,17 @@
       
       <guid>http://tpwalinga.nl/blender-projects/mandelbulb/</guid>
       <description></description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/blender/mandelbulb_blue.png" alt="blue"  />
+
+<img loading="lazy" src="/blender/mandelbulb_pink.png" alt="pink"  />
+
+<img loading="lazy" src="/blender/mandelbulb_orange.png" alt="orange"  />
+
+<img loading="lazy" src="/blender/mandelbulb_rainbow.png" alt="rainbow"  />
+
+<img loading="lazy" src="/blender/mandelbulb_purple.png" alt="purple"  />
+</p>
+]]></content:encoded>
     </item>
     
   </channel>
